@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Rest Custom Fields
- * Plugin URI:  
+ * Plugin URI:  https://github.com/LesterGallagher/rest-custom-fields
  * Description: Exposes Custom Meta Fields from pages on rest api.
  * Version:     0.1.0
  * Author:      Sem Postma
